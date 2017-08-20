@@ -12,3 +12,9 @@ Input Parameters For Predicting HL and CL:
 8. Glazing Area Distribution 
 
 The procedure to arrive at the Decision Tree Regressor Model is explained in the ipython notebook. The same model is trained for the data we have and further used to predict the HL and CL values using the inputs from the user through the app, the computation being done on a django server.
+
+Directory Structure:
+1. `App` contains code for Android Application developed.
+2. `Django` contains code for server used in application.
+3. `Model` contains our Machine learning model.
+4. `Enery Efficiency.pptx` contains project presentation. 
