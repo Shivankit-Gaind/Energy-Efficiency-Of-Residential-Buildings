@@ -17,4 +17,4 @@ Directory Structure:
 1. `App` contains code for Android Application developed.
 2. `Django` contains code for server used in application.
 3. `Model` contains our Machine learning model.
-4. `Enery Efficiency.pptx` contains project presentation. 
+ 
